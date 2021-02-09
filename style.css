@@ -11,6 +11,12 @@ li {color: pink;}
     height: 100px;
     background-color: red;
     position: absolute;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
   }
   
   .second-box-container {
@@ -19,6 +25,12 @@ li {color: pink;}
     background-color: yellow;
     position: absolute;
     left: 250px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
   }
   
   .third-box-container {
@@ -27,5 +39,10 @@ li {color: pink;}
     background-color: green;
     position: absolute;
     left: 500px;
-
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
   }
