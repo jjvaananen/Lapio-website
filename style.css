@@ -1,7 +1,24 @@
 h1 {color: blue;}
-h2 {color: red;}
+h2 {
+  color: red;
+  margin-top: 1em;
+  padding-top: 1em;
+}
 li {color: pink;}
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+  margin: 0 auto;
+  max-width: 50em;
+}
 
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+  background: #eee;
+}
 .parent {
     position: relative;
 }
